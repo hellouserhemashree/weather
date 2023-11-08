@@ -92,6 +92,7 @@ else{
               <div className="data">
               <div className="humidity-percent">64%</div>
               <div className="text">Humidity</div>
+              <div className="text">Humidity</div>
               
            </div>
            </div>
